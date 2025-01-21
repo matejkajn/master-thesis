@@ -24,7 +24,7 @@ The repository contains:
     - Class target: ['not_recommended', 'priority', 'special_priority']
     - Model: Multi-layer Perceptron Classifier
    
-Data for specific Jyputer notebook can be found in **`data`** file
+Data for specific Jupyter notebook can be found in **`data`** file
 
 ## Requirements
 
